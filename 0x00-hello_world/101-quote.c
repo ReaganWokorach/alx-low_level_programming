@@ -1,4 +1,3 @@
-#!/bin/bash
 /**
  * main-program entry point.
  *
